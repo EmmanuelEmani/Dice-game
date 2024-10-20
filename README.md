@@ -1,4 +1,5 @@
 Dice Roller App
+
 This project is a simple Dice Roller App built with React and powered by Vite for fast development and build times. The app allows users to roll a virtual die (or dice) and get a random number with each roll.
 
 Features
